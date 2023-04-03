@@ -17,5 +17,3 @@ This is a visually stunning parallax website that demonstrates the power of CSS 
 ## How to Use
 
 To view the website locally, simply start live server open the `http://localhost:5500/` in your preferred web browser. You can also visit the live site here
-
-## Preview
